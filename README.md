@@ -7,7 +7,7 @@ I'm a developer from Italy and yes, I do love pizza very much.
 - 🎓 Curently studying for High School diploma.
 - 🎯 Using my time to save other people's time.
 
-## :headphones: Spotify Playing
+## :headphones: Listening to
 
 [<img src="https://spotify-now-playing-hzyjzsbu5-elpideus.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/stephirio)
 
