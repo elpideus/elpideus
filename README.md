@@ -2,7 +2,7 @@
 
 I'm a developer from Italy and yes, I do love pizza very much.
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrHYcM94gk963GKaYmFCREA) [![Instagram](https://img.shields.io/badge/Instagram-%23845EC2.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/elpideus)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrHYcM94gk963GKaYmFCREA) [![Instagram](https://img.shields.io/badge/Instagram-%23845EC2.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/elpideus) [![Telegram](https://img.shields.io/badge/Telegram-%235682a3.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/elpideus)
 
 - 🎓 Curently studying for High School diploma.
 - 🎯 Using my time to save other people's time.
