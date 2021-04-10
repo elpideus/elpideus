@@ -26,6 +26,7 @@ I'm a developer from Italy and yes, I do love pizza very much.
 ![Linux](https://img.icons8.com/color/30/linux.png)
 ![Debian](https://img.icons8.com/color/30/debian.png)
 ![Console](https://img.icons8.com/color/30/console.png)
+![Fruity Loops Studio](https://img.icons8.com/color/30/fl-studio.png)
 ![Adobe After Effects](https://img.icons8.com/color/30/adobe-after-effects.png)
 ![Adobe Premiere Pro](https://img.icons8.com/color/30/adobe-premiere-pro.png)
 ![Adobe Photoshop](https://img.icons8.com/color/30/adobe-photoshop.png)
