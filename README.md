@@ -9,7 +9,7 @@ I'm a developer from Italy and yes, I do love pizza very much.
 
 ## :headphones: Listening to
 
-[<img src="https://spotify-now-playing-hzyjzsbu5-elpideus.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/stephirio)
+[<img src="https://spotify-now-playing-lime-chi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/oixpr4zwx9vktlpg1i8i57jim)
 
 ## :wrench: Technologies and Software
 
