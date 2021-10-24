@@ -19,6 +19,8 @@ I'm a not really serious developer from Italy and yes, I do love pizza very much
 ![Java](https://img.icons8.com/color/30/java.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![PHP](https://img.icons8.com/color/30/php.png)
+![Intellij Idea](https://img.icons8.com/color/30/intellij-idea.png)
+![Pycharm](https://img.icons8.com/color/30/pycharm.png)
 ![WordPress](https://img.icons8.com/color/30/wordpress.png)
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
 ![Git](https://img.icons8.com/color/30/git.png)
