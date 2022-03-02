@@ -7,10 +7,6 @@ I'm a not really serious developer from Italy and yes, I do love pizza very much
 - 🎓 Curently studying for High School diploma.
 - 🎯 Using my time to save other people's time.
 
-## :headphones: Listening to
-
-[<img src="https://spotify-now-playing-lime-chi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/oixpr4zwx9vktlpg1i8i57jim)
-
 ## :wrench: Technologies and Software
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
