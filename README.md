@@ -9,14 +9,16 @@ I'm a not really serious developer from Italy and yes, I do love pizza very much
 
 ## :wrench: Technologies and Software
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)
-![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![Python](https://img.icons8.com/color/30/python.png)
 ![Java](https://img.icons8.com/color/30/java.png)
-![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![NodeJs](https://img.icons8.com/color/30/nodejs.png)
 ![PHP](https://img.icons8.com/color/30/php.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
 ![Intellij Idea](https://img.icons8.com/color/30/intellij-idea.png)
-![Pycharm](https://img.icons8.com/color/30/pycharm.png)
+![Webstorm](https://img.icons8.com/color/30/webstorm.png)
+![PyCharm](https://img.icons8.com/color/30/pycharm.png)
 ![WordPress](https://img.icons8.com/color/30/wordpress.png)
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
 ![Git](https://img.icons8.com/color/30/git.png)
