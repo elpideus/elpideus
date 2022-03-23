@@ -1,19 +1,20 @@
 # :coffee: Hello, I am elpideus :computer:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oixpr4zwx9vktlpg1i8i57jim&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=oixpr4zwx9vktlpg1i8i57jim&redirect=true)
-
-I'm a not really serious developer from Italy and yes, I do love pizza very much.
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/qMaZ2dpSHP) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrHYcM94gk963GKaYmFCREA) [![Instagram](https://img.shields.io/badge/Instagram-%23845EC2.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/elpideus) [![Telegram](https://img.shields.io/badge/Telegram-%235682a3.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/elpideus) [![Reddit](https://img.shields.io/badge/Reddit-%23ff5700.svg?&style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/u/elpideus) [![Mail](https://img.shields.io/badge/Email-%23BB001B.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:elpideus@gmail.com?subject=From%20GitHub) [![Facebook](https://img.shields.io/badge/Facebook-%231778F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/elpideus)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oixpr4zwx9vktlpg1i8i57jim&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=oixpr4zwx9vktlpg1i8i57jim&redirect=true)
+
+**I'm a friendly developer from Italy and before you ask...yes, I love pizza a lot.**
+
 - 🎓 Curently studying for High School diploma.
+- 🔮 Making a HUGE custom plugin for Minecraft servers.
 - 🎯 Using my time to save other people's time.
 
 ## :trophy: How do I perform?
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=elpideus&show_icons=true&bg_color=0d1117&title_color=1DB954&text_color=b3b3b3&icon_color=b3b3b3&hide_border=true&include_all_commits=true&count_private=true&custom_title=Some%20statistics%20about%20my%20GitHub%20activity" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=elpideus&show_icons=true&bg_color=0d1117&title_color=b3b3b3&text_color=b3b3b3&icon_color=b3b3b3&hide_border=true&include_all_commits=true&count_private=true&custom_title=Some%20statistics%20about%20my%20GitHub%20activity" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=0d1117&title_color=1DB954&text_color=b3b3b3&icon_color=b3b3b3&hide_border=true&include_all_commits=true&count_private=true&langs_count=4" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=0d1117&title_color=b3b3b3&text_color=b3b3b3&icon_color=b3b3b3&hide_border=true&include_all_commits=true&count_private=true&langs_count=4" />
 
 
 ## :wrench: Technologies and Software
