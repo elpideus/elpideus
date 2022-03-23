@@ -11,9 +11,9 @@ I'm a not really serious developer from Italy and yes, I do love pizza very much
 
 ## :trophy: How do I perform?
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=elpideus&show_icons=true&bg_color=22272e&title_color=1DB954&text_color=b3b3b3&icon_color=b3b3b3&hide_border=true&include_all_commits=true&count_private=true&custom_title=Some%20statistics%20about%20my%20GitHub%20activity" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=elpideus&show_icons=true&bg_color=0d1117&title_color=1DB954&text_color=b3b3b3&icon_color=b3b3b3&hide_border=true&include_all_commits=true&count_private=true&custom_title=Some%20statistics%20about%20my%20GitHub%20activity" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=22272e&title_color=1DB954&text_color=b3b3b3&icon_color=b3b3b3&hide_border=true&include_all_commits=true&count_private=true&langs_count=4" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=0d1117&title_color=1DB954&text_color=b3b3b3&icon_color=b3b3b3&hide_border=true&include_all_commits=true&count_private=true&langs_count=4" />
 
 
 ## :wrench: Technologies and Software
