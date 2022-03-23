@@ -7,6 +7,10 @@ I'm a not really serious developer from Italy and yes, I do love pizza very much
 - 🎓 Curently studying for High School diploma.
 - 🎯 Using my time to save other people's time.
 
+## :headphones: Music:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oixpr4zwx9vktlpg1i8i57jim&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=oixpr4zwx9vktlpg1i8i57jim&redirect=true)
+
 ## :wrench: Technologies and Software
 
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
