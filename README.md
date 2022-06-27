@@ -1,4 +1,4 @@
-# :coffee: Hello, I am elpideus :computer:
+# :coffee: Hello, I am elpideus :computer: <img src="https://komarev.com/ghpvc/?username=elpideus" alt="" align="center" />
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/qMaZ2dpSHP) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrHYcM94gk963GKaYmFCREA) [![Instagram](https://img.shields.io/badge/Instagram-%23845EC2.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/elpideus) [![Telegram](https://img.shields.io/badge/Telegram-%235682a3.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/elpideus) [![Reddit](https://img.shields.io/badge/Reddit-%23ff5700.svg?&style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/u/elpideus) [![Mail](https://img.shields.io/badge/Email-%23BB001B.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:elpideus@gmail.com?subject=From%20GitHub) [![Facebook](https://img.shields.io/badge/Facebook-%231778F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/elpideus)
 
@@ -12,9 +12,16 @@
 
 ## :trophy: How do I perform?
 
+<table width="100&">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=elpideus&show_icons=true&bg_color=0d1117&title_color=b3b3b3&text_color=b3b3b3&icon_color=b3b3b3&hide_border=true&include_all_commits=true&count_private=true&custom_title=Some%20statistics%20about%20my%20GitHub%20activity" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=0d1117&title_color=b3b3b3&text_color=b3b3b3&icon_color=b3b3b3&hide_border=true&include_all_commits=true&count_private=true&langs_count=4" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=0d1117&title_color=b3b3b3&text_color=b3b3b3&icon_color=b3b3b3&hide_border=true&include_all_commits=true&count_private=true&langs_count=4" />
+    </td>
+  </tr>
+</table>
 
 
 ## :wrench: Technologies and Software
