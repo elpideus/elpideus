@@ -6,7 +6,7 @@
 
 **I'm a friendly developer from Italy and before you ask...yes, I love pizza a lot.**
 
-- 🎓 Currently studying for High School diploma.
+- 🎓 Currently studying trading.
 - 🔮 Making a HUGE custom plugin for Minecraft servers.
 - 🎯 Using my time to save other people's time.
 
