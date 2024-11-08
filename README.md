@@ -4,8 +4,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eh4vux6feubsc35jq3txc2f32q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eh4vux6feubsc35jq3txc2f32q&redirect=true)
 
-`Konychwa, HMTL is mizing :)`
-
 
 ## 😄 I am a friendly guy from Italy. 
 
