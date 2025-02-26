@@ -24,7 +24,7 @@
 
 | Languages                                                                          | Technologies                                                                                                                                     |
 |------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](https://skillicons.dev/icons?i=ts,js,html,css,sass,java,py,php,bash&perline=5) | ![](https://skillicons.dev/icons?i=bun,nodejs,nextjs,react,tailwind,express,nginx,mongodb,mysql,sqlite,postgres,prisma,bots,discordjs&perline=7) |
+| ![](https://skillicons.dev/icons?i=ts,js,html,css,sass,java,kotlin,py,php,bash&perline=5) | ![](https://skillicons.dev/icons?i=bun,nodejs,nextjs,react,tailwind,express,nginx,mongodb,mysql,sqlite,postgres,prisma,bots,discordjs&perline=7) |
 
 | Software                                                                                                        | Operating Systems                                                                     |
 |-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
