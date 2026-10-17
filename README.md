@@ -17,10 +17,6 @@
   <a href="https://elpideus.com/api/cv"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-162038?style=flat-square&labelColor=0d1322&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2ZkN2ZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPHBhdGggZD0iTTYgMmg4bDUgNXYxNUg2WiIvPjxwYXRoIGQ9Ik0xNCAydjVoNU05IDEzaDdNOSAxN2g1Ii8%2BPC9zdmc%2B&logoColor=7fd7ff"></a>
 </p>
 
-Self taught full stack developer, designer and video maker from Ostuni, the "White City" in southern Italy. I build web products end to end: architecture, data, interface, motion. I started with PHP on a tablet in 2017 because a Telegram bot I relied on was abandoned, and I have not stopped since.
-
-This page is a flat print of [elpideus.com](https://elpideus.com), a scroll driven star map of projects, tools and story. Every heading below is one of its stars.
-
 <p align="center">
   <a href="https://elpideus.com/api/now-playing?open">
     <picture>
@@ -30,6 +26,10 @@ This page is a flat print of [elpideus.com](https://elpideus.com), a scroll driv
     </picture>
   </a>
 </p>
+
+Self taught full stack developer, designer and video maker from Ostuni, the "White City" in southern Italy. I build web products end to end: architecture, data, interface, motion. I started with PHP on a tablet in 2017 because a Telegram bot I relied on was abandoned, and I have not stopped since.
+
+This page is a flat print of [elpideus.com](https://elpideus.com), a scroll driven star map of projects, tools and story. Every heading below is one of its stars.
 
 ### <sub>POLARIS</sub><br>Right now
 
