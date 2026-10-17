@@ -116,7 +116,7 @@ Editing since 2019, from Windows Movie Maker to DaVinci Resolve, which still run
 </tr>
 <tr>
 <td><b>Design and video</b><br><sub>The other half of the craft, cut in DaVinci Resolve.</sub></td>
-<td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ps%2Cai%2Cae%2Cpr%2Cfigma&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ps%2Cai%2Cae%2Cpr%2Cfigma&theme=light"><img alt="ps, ai, ae, pr, figma" src="https://skillicons.dev/icons?i=ps%2Cai%2Cae%2Cpr%2Cfigma&theme=dark" height="36"></picture></td>
+<td><img alt="DaVinci Resolve" src="https://raw.githubusercontent.com/elpideus/elpideus/main/assets/davinci.svg" height="36"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ps%2Cai%2Cae%2Cpr%2Cfigma&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ps%2Cai%2Cae%2Cpr%2Cfigma&theme=light"><img alt="ps, ai, ae, pr, figma" src="https://skillicons.dev/icons?i=ps%2Cai%2Cae%2Cpr%2Cfigma&theme=dark" height="36"></picture></td>
 </tr>
 </table>
 
